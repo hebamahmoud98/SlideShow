@@ -1,0 +1,17 @@
+img{
+    width: 800px;
+    height: 400px;
+    display: block;
+    margin: 50px auto;
+    border:1px solid #f50 ;
+}
+p{
+    width: 60%;
+    margin: auto;
+    background-color: blueviolet;
+    color: aliceblue;
+    padding: 10px;
+    font-size: 30px;
+    text-align: center;
+    font-weight: bold;
+}
